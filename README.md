@@ -8,6 +8,6 @@
 </br>
 <div align="center">
   <a href="https://skills.thijs.gg" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,js,tailwind,php,html,css,c,vscode&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=apple,discord,gmail,instagram,linkedin,python,js,tailwind,php,java,html,css,c,vscode&theme=dark" alt="Tech Stack" />
   </a>
 </div>
